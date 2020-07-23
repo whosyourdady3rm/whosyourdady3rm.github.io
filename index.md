@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to whosyourdady3rm GitHub Web-page
 
-You can use the [editor on GitHub](https://github.com/whosyourdady3rm/whosyourdady3rm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My alias is **whosyourdady** and I started using GitHub in 2020, programming in the times of the pandemic that took the world by storm in that year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My main known programming languages are:
+ - **C/C++**
+ - **Python**
+ - **Java**
+ - **Go-Lang** (soon)
+ 
 
-### Markdown
+but I follow other areas also, like _drawing_, _editing videos_ or _blooging/literature_.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also, _gaming_ is one of my top passions ever since I know computers.
 
-```markdown
-Syntax highlighted code block
+More to come!
 
-# Header 1
-## Header 2
-### Header 3
+_Have some nice days ahead and thank you for passing by!_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whosyourdady3rm/whosyourdady3rm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_**whosyourdady**_
