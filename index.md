@@ -5,7 +5,6 @@ My alias is **whosyourdady** and I started using GitHub in 2020, programming in 
 My main known programming languages are:
  - **C/C++**
  - **Python**
- - **Java**
  - **Go-Lang** (soon)
  
 
