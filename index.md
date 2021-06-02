@@ -2,7 +2,7 @@
 
 My alias is **whosyourdady** and I started using GitHub in 2020, programming in the times of the pandemic that took the world by storm that year.
 
-My main known programming languages of interest are:
+The programming languages I am most interested in are:
  - **C/C++**
  - **Java**
  - **Python**
